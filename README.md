@@ -1,7 +1,7 @@
-# UwUcoin <a href="https://github.com/legitnull/uwucoin"><img src="https://img.shields.io/tokei/lines/github/legitnull/uwucoin?color=green" /><img src="https://badgen.net/github/contributors/legitnull/uwucoin?color=green" />
+
  > UwUcoin is a proof of stake meme coin with a private programmable blockchain written entirely in rust  
 
-<img src="https://cdn.discordapp.com/attachments/818600140621217842/818642602504880168/UwU_Coin_Words.png" />
+
 
 
 ## Table of contents
